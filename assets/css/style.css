@@ -68,3 +68,30 @@ hr {
   height: 2rem;
   width: 2rem;
 }
+
+
+/* --------------- QUIENES SOMOS -------------- */
+
+.contenedor-main {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.card-quienes {
+  border: none;
+  background-color: transparent;
+}
+
+.card-header-quienes {
+  background-color: #0DCAF0;
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+
+}
+
+.card-header {
+  border-radius: 0 !important;
+}
+
+
