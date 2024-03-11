@@ -95,3 +95,21 @@ hr {
 }
 
 
+/* ---------------- DESTACADOS ---------------- */
+
+.card img {
+  height: 9rem;
+}
+
+.cartas {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.cards {
+  background-color: #0DCAF0;
+  color: #fff;
+  border: .2rem solid #0DCAF0;
+}
