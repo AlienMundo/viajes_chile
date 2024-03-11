@@ -113,3 +113,15 @@ hr {
   color: #fff;
   border: .2rem solid #0DCAF0;
 }
+
+/* ---------------- CONTACTO ---------------- */
+
+.input-mensaje {
+  padding-bottom: 10rem;
+}
+
+input {
+  border: .1rem solid #0DCAF0 !important;
+}
+
+
