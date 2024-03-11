@@ -49,3 +49,22 @@ hr {
   --bs-btn-padding-x: .3rem; 
   --bs-btn-font-size: 1rem;
 }
+
+
+/* ----------------- CAROUSEL ----------------- */
+
+.slide img{
+  height: 60rem;
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+  width: 3rem;
+  height: 3rem;
+}
+
+
+.carousel-indicators [data-bs-target] {
+  border-radius: 50%;
+  height: 2rem;
+  width: 2rem;
+}
