@@ -1,0 +1,51 @@
+/* FONTS 
+font-family: "Nunito", sans-serif;
+font-family: "Madimi One", sans-serif;
+*/
+
+/* ----------------- GENERALES ---------------- */
+html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+
+}
+
+.contenedor-todo {
+  --bs-gutter-x: 0rem;
+  background-color: #000000;
+}
+
+hr {
+  background-color: #fff;
+  color: #7e7e80;
+}
+
+
+/* ------------------ HEADER ------------------ */
+
+.logo-navbar {
+  font-family: "Madimi One", sans-serif;
+  font-size: 1.5rem;
+}
+
+.navbar {
+  transition: all 0.6s;
+}
+
+.navbar a:hover {
+  cursor: pointer;
+  color: #135358 !important;
+
+}
+
+
+#light {
+  margin-left: 1rem;
+  margin-top: .3rem;
+  --bs-btn-padding-y: .0rem; 
+  --bs-btn-padding-x: .3rem; 
+  --bs-btn-font-size: 1rem;
+}
