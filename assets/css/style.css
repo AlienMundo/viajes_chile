@@ -125,3 +125,33 @@ input {
 }
 
 
+/* ------------------ FOOTER ------------------ */
+
+footer {
+  background-color: #0DCAF0;
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 1rem;
+  font-size: 2rem;
+  
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer a:hover {
+  color: #135358 !important;
+
+}
+
+.redes-sociales a {
+  margin-right: 1rem;
+}
+
+footer p {
+  font-family: "Madimi One", sans-serif;
+}
+
